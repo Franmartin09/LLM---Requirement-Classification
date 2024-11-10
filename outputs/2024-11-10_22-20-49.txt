@@ -1,0 +1,26 @@
+Original Requirement: Develop embedded software for a new automotive control module, focusing on power management for motorized buttons, such as those used for seat adjustments and window regulators, ensuring minimal power consumption while maintaining performance.
+Classification: [
+  "Embedded Software Development",
+  "Power Electronics",
+  "Software Architecture"
+]
+Rewrites: [
+  {
+    "subdepartment": "Embedded Software Development",
+    "new_requirement": "Develop embedded software for a new automotive control module, focusing on power management for motorized buttons, such as those used for seat adjustments and window regulators, ensuring minimal power consumption while maintaining performance. The software should be able to handle multiple button inputs and outputs, and provide a flexible framework for future feature additions."
+  },
+  {
+    "subdepartment": "Power Electronics",
+    "new_requirement": "Design and develop power conversion and management systems for the new automotive control module, ensuring efficient power supply to motorized buttons while minimizing heat generation and electromagnetic interference. The power electronics should be able to handle varying input voltages and provide a stable output voltage to the buttons."
+  },
+  {
+    "subdepartment": "Software Architecture",
+    "new_requirement": "Design a software architecture for the new automotive control module that integrates power management for motorized buttons, ensuring scalability, maintainability, and flexibility. The architecture should provide a clear separation of concerns between different software components, and enable easy integration with other system components."
+  }
+]
+
+==================================================
+Original Requirement: Develop robust PCB design standards for automotive electronic control units (ECUs) used in vehicle lighting and steering systems, ensuring reliability and durability under high vibration, thermal, and electromagnetic stress typical in automotive environments.
+Classification: [
+  "Circuit Design"
+]

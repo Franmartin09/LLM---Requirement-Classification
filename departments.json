@@ -1,0 +1,75 @@
+{
+  "departments": {
+    "System": {
+      "description": "Oversees system-level architecture and integration across hardware and software components.",
+      "subdepartments": {
+        "System Architecture": {
+          "description": "Designs the overall architecture and structure, ensuring alignment between hardware and software components for optimal system performance."
+        },
+        "Requirements Engineering": {
+          "description": "Gathers and defines system requirements from stakeholders, translating business needs into technical specifications."
+        },
+        "System Integration": {
+          "description": "Manages the integration of various system components, verifying compatibility and ensuring functional interoperability."
+        },
+        "System Validation": {
+          "description": "Tests the system as a whole to confirm that it meets all specifications and performance standards."
+        }
+      }
+    },
+    "Software": {
+      "description": "Responsible for developing embedded software solutions for KOSTAL's products.",
+      "subdepartments": {
+        "Embedded Software Development": {
+          "description": "Focuses on developing the core embedded software that drives KOSTAL products, ensuring functionality and efficiency."
+        },
+        "Software Architecture": {
+          "description": "Designs and optimizes software structures and frameworks to support system requirements and hardware compatibility."
+        },
+        "Software Testing": {
+          "description": "Conducts testing at different stages to verify software reliability and adherence to specifications."
+        },
+        "Firmware Development": {
+          "description": "Develops low-level software that interfaces directly with hardware, enabling communication between system components."
+        }
+      }
+    },
+    "Hardware": {
+      "description": "Handles the physical design and development of electronic and mechanical components.",
+      "subdepartments": {
+        "Circuit Design": {
+          "description": "Creates circuit designs and component layouts, including printed circuit boards (PCBs), ensuring performance and compliance with industry standards."
+        },
+        "Power Electronics": {
+          "description": "Develops power conversion and management systems to support device functionality and efficiency."
+        },
+        "Hardware Testing": {
+          "description": "Performs rigorous tests on hardware components to ensure durability, performance, and reliability under various conditions."
+        }
+      }
+    },
+    "QA": {
+      "description": "Ensures product quality and regulatory compliance through systematic testing and validation.",
+      "subdepartments": {
+        "Software Unit Testing (SWUT)": {
+          "description": "Tests individual software units to verify that each module performs as expected in isolation."
+        },
+        "Software Integration Testing (SWIT)": {
+          "description": "Tests the integration of multiple software modules to ensure they function together correctly within the system."
+        },
+        "Software Quality Assurance (SWQ)": {
+          "description": "Oversees the entire software development process to ensure quality standards are met and software is fit for release."
+        },
+        "Hardware Quality Assurance (HWQ)": {
+          "description": "Monitors hardware development to ensure that all physical components meet quality and performance standards."
+        },
+        "Functional Testing": {
+          "description": "Tests product functionality to ensure it meets specified requirements and operates as intended."
+        },
+        "Compliance Testing": {
+          "description": "Ensures products meet industry standards and regulatory requirements before release."
+        }
+      }
+    }
+  }
+}

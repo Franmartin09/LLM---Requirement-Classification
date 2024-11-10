@@ -1,0 +1,6 @@
+
+# Entornos de desarrollo locales
+.env
+.env.local
+
+__pycache__/

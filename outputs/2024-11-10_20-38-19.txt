@@ -1,0 +1,8 @@
+Original Requirement: Develop robust PCB design standards for automotive electronic control units (ECUs) used in vehicle lighting and steering systems, ensuring reliability and durability under high vibration, thermal, and electromagnetic stress typical in automotive environments.
+Classification and Rewrites: [
+  "Hardware Design"
+]
+
+==================================================
+
+Process completed successfully.
